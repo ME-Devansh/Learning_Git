@@ -9,5 +9,7 @@ int main()
         cout<<"*";
     }
     cout<<"\n";
+    cout<<"Done with the loops.\n";
+    cout<<"We have to work with while loops also.\n";
     return 0;
 }
